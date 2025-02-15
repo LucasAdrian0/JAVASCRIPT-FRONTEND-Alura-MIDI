@@ -96,3 +96,4 @@ function zerar () {//zerar temporizador ao chegar em tempo zero
     clearInterval(intervaloId)
     intervaloId = null
 }
+//Lembrar de fazer o contador apareceder na tela
